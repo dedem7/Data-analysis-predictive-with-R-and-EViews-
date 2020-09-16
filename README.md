@@ -13,12 +13,12 @@ tools: EVIEWS, R.
 
 2. "Wage analysis from Wooldrige wage2 dataset"
 The project made to analyse which factors (e.g. gender, IQ, experience) influence to wage amount. 
-keywords: Multi regression analysis, Principal Component analysis, Clusters, Machine Learning
+keywords: Multi regression analysis, Principal Component analysis, Clusters, Machine Learning.
 tools: R.
 
 3. "Regression analysis on test results for diabetes diognosis in R" (Master thesis)
 Main idea of Master thesis is predictive approach and different methods for outlier detection. By checking model quality and prediction accuracy with/without outliers, the thesis outcome was evaluation the influence of outliers.
-keywords: Predictive regression approach, Machine Learning, Outlier detection methods
+keywords: Predictive regression approach, Machine Learning, Outlier detection methods.
 tools: R.
 
 
