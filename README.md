@@ -1,4 +1,4 @@
-# MyProjects
+# Data analysis (predictive) with R and EVIEWS
 Quantitative(statistical) data analysis and ML
 
 The projects were done during studying master's degree of Quantitative economic analysis.
